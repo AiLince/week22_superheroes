@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/week22_superheroes/static/css/main.05bbd4f1.css",
+    "main.js": "/week22_superheroes/static/js/main.7569c732.js",
+    "static/js/787.59c7872d.chunk.js": "/week22_superheroes/static/js/787.59c7872d.chunk.js",
+    "index.html": "/week22_superheroes/index.html",
+    "main.05bbd4f1.css.map": "/week22_superheroes/static/css/main.05bbd4f1.css.map",
+    "main.7569c732.js.map": "/week22_superheroes/static/js/main.7569c732.js.map",
+    "787.59c7872d.chunk.js.map": "/week22_superheroes/static/js/787.59c7872d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05bbd4f1.css",
+    "static/js/main.7569c732.js"
+  ]
+}
